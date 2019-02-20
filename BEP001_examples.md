@@ -1,4 +1,4 @@
-# BEP001 example
+# BEP001 examples
 
 This branch of the BEP001 repository contains some practical examples of what a BIDS-compatible qMRI dataset will look like. 
 
